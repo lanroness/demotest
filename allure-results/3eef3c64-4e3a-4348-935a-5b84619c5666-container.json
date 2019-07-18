@@ -1,0 +1,1 @@
+{"uuid":"3eef3c64-4e3a-4348-935a-5b84619c5666","name":"com.example.demo.HelloTests","children":["46c9e366-e140-4815-90d1-97c2cc6204b6"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1563442426527,"stop":1563442429143}],"afters":[],"links":[],"start":1563442426448,"stop":1563442429701}
